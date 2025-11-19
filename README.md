@@ -1,9 +1,3 @@
-Este código é um excelente projeto de **Programação Orientada a Objetos (POO)** em JavaScript, focado na **modelagem de um sistema de gestão de clientes e empresas**, utilizando recursos modernos da linguagem como **classes**, **encapsulamento** (campos privados `#`) e **coleções** (`Set`).
-
-Aqui está o `README.md` detalhado para o seu sistema:
-
------
-
 # 🏢 Sistema de Gestão de Clientes e Empresas (POO Moderna em JS)
 
 Este projeto implementa um pequeno **Sistema de Gestão de Clientes e Contatos** utilizando recursos avançados de **Programação Orientada a Objetos (POO)** em JavaScript (ES6+).
